@@ -1,0 +1,2 @@
+const averageWordLength = wordCount === 0 ? 0 :
+    wordLengths.reduce((sum, len) => sum + len, 0) / wordCount;
